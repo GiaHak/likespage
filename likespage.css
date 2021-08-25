@@ -1,0 +1,87 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#navbar {
+  width: 1000px;
+  height: 80px;
+  background-color: rgb(10, 10, 10);
+  font-family: cursive;
+  color: white;
+  font-size: 17pt;
+}
+#feedbox {
+  margin: auto;
+  margin-left: 0;
+  text-align: center;
+  width: 1000px;
+  height: 50px;
+  background-color: rgb(249, 250, 248);
+  font-family: cursive;
+}
+.avatar {
+  margin: 25px 0px;
+  display: block;
+}
+img {
+  width: 100px;
+  height: 100px;
+  margin-top: 30px;
+}
+
+.container-1 {
+  margin: 20px;
+  width: 300px;
+  height: 400px;
+  border: 1px solid black;
+  padding: 10px;
+  background-color: rgb(249, 250, 248);
+  border-radius: 10px;
+  font-family: cursive;
+  float: left;
+  text-align: center;
+}
+
+.card1 {
+  margin: 20px;
+  width: 500px;
+  height: 200px;
+  border: 1px solid black;
+  padding: 20px;
+  background-color: rgb(249, 250, 248);
+  border-radius: 10px;
+  font-family: cursive;
+  font-size: 16pt;
+  position: relative;
+  margin-left: 440px;
+}
+h1 {
+  margin: 0 auto;
+  margin-left: 20px;
+}
+h2 {
+  font-size: 28pt;
+}
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.likes {
+  margin-top: 25px;
+  width: 100px;
+}
+
+.btn-like {
+  margin-top: 25px;
+  width: 70px;
+  height: 35px;
+  background-color: rgb(209, 190, 20);
+  margin-left: 50px;
+  font-family: cursive;
+  font-size: 16pt;
+  box-shadow: ;
+}
+p {
+  margin-top: 20px;
+}
